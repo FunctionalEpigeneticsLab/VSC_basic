@@ -1,3 +1,7 @@
+# BIG node documentation
+
+https://docs.google.com/document/d/1bMqhykatkkATmWkqIdaXqQRv8GnfUOX9qSdDuShfmCI/
+
 # Cheat Sheet
 
 Get access to VSC. For full information: [https://vlaams-supercomputing-centrum-vscdocumentation.readthedocs-hosted.com/en/latest/index.html](https://vlaams-supercomputing-centrum-vscdocumentation.readthedocs-hosted.com/en/latest/index.html)
